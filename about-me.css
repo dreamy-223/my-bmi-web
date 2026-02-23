@@ -294,6 +294,12 @@ html, body {
     font-size: 15px;
 }
 
+.text4 li {
+    font-size: 20px;
+    margin-left: 40px;
+    max-height: 25px;
+}
+
 .footer {
     text-align: center;
     margin: auto;
